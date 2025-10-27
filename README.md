@@ -7,9 +7,9 @@
 This is my personal portfolio website, designed to serve as a digital resume and showcase of my technical journey.
 It highlights my projects, education, work experience, and contact details, presented through a clean, fast, and responsive design.
 
-## 💡 Built to make a strong first impression for recruiters and collaborators — combining modern aesthetics with functional design.
+ 💡 Built to make a strong first impression for recruiters and collaborators — combining modern aesthetics with functional design.
 
-## 🌍 Live Demo: https://18jayanth.github.io/Personal-Portfolio/
+ 🌍 Live Demo: https://18jayanth.github.io/Personal-Portfolio/
 
 ## 🎨 Features
 
